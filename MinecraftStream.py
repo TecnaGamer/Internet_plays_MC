@@ -15,7 +15,7 @@ mouse = Controller()
 
 SERVER = "irc.twitch.tv"
 PORT = 6667
-PASS = "oauth:iid5qep1a99kxhbfzp3ieq0huinz1m"
+PASS = ""
 BOT = "MC_Bot"
 CHANNEL = "tecnagamer"
 OWNER = "tecnagamer"
